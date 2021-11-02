@@ -8,4 +8,5 @@
 </head>
 <body>
     <h3>Materi Git remote<h3/>
+    <p>Repo untuk mencoba Git remote. Kuliah mdpl prak VIII</P>
 </body>
